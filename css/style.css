@@ -9,7 +9,9 @@
     background-image: url(../img/pattern.png);
     background-color: rgb(71, 161, 250);
     background-size: contain;
-    padding: ;
+    height: 40px;
+    width: auto;
+    padding: 40px 900px 5px 5px;
 }
 
 
